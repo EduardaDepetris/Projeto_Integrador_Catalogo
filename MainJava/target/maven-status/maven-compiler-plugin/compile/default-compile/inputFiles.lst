@@ -1,0 +1,11 @@
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\dao\Conexao.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\dao\GeneroDAO.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\dao\TituloDAO.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\model\Genero.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\model\Titulo.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\AdicionarTituloServlet.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\BuscarTituloServlet.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\DetalhesTituloServlet.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\EditarTituloServlet.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\ExcluirTituloServlet.java
+D:\Estudos\Faculdade\catalogo\MainJava\src\main\java\com\catalogo\servlets\ListarTitulosServlet.java
