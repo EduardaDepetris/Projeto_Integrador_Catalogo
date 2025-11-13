@@ -106,8 +106,8 @@ GROUP BY t.id;
 ## 📸 Screenshots
 
 <img width="620" height="325" alt="image" src="https://github.com/user-attachments/assets/b4b17bac-aa41-4397-adf3-0d668778c70c" />
-<img width="500" height="405" alt="image" src="https://github.com/user-attachments/assets/193a224e-5e82-4ba0-a4f1-11da2c164550" />
-<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/0bc92dbb-4ab8-4d60-8d1a-41e7e70c6bdb" />
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/193a224e-5e82-4ba0-a4f1-11da2c164550" />
+<img width="620" height="268" alt="image" src="https://github.com/user-attachments/assets/0bc92dbb-4ab8-4d60-8d1a-41e7e70c6bdb" />
 
 
 
